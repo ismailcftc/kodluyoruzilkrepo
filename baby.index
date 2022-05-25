@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tatlı tarifleri</title>
+</head>
+
+<style>
+    body{ 
+        background-color: antiquewhite;
+    }
+    h1{ 
+        color: #e67e22;
+    }
+    .tarif{
+        float: left;
+        border: 1px solid black;
+        padding: 20px;
+        width: 300px;
+        height: 500px;
+        font-weight: bold;
+        border-radius: 1rem;
+        
+    }
+   
+    .hazirlanis{
+        float: left;
+        border: 1px solid black;
+        padding: 20px;
+        width: 200px;
+        height: 360px;
+    }
+    .clear{
+        clear: both;
+    }
+
+    #content {
+    margin: 3rem auto;
+    width: 60%;
+    }
+
+    #content div {
+    padding: 5px;
+    }
+
+    #title {
+    margin-left: 3rem;
+    }
+
+    .Afiyet {
+    font-size: 1.5rem;
+    float: right;
+    margin-right: 15rem;
+    font-weight: bold;
+    font-family: "Roboto Mono", monospace;
+   
+    }
+
+    .vr {
+    border-left: 4px solid #e67e22;
+    height: 500px;
+    position: relative;
+    left: 55%;
+    margin-left: -3px;
+    top: 0;
+    }
+
+    .heading {
+  color: white;
+  background-color: #ae6220;
+  font-weight: bold;
+  border-radius: 1rem;
+}
+</style>
+
+<body>
+    <i><strong><h1>..elmalı kurabiye tarifi..</h1></strong></i> <br>
+    <hr>
+    <i><strong><p>modası geçmeyen, kurabiye tariflerinin yıldızı elmalı kurabiye tarifimi paylaşıyorum. Bu tarifi ne zaman 
+        yapsam misafirlerim tarifini almadan gitmezler :) </p></strong></i><br>
+
+    <p><strong>tarif:</strong>elida ceylan</p>
+    
+    <div id="content">
+        
+    <p>Bir porsiyon elmalı kurabiye yaklaşık 613 kcal dır. Çok fazla ve sık tüketilmemeye özen gösterilmelidir.</p>
+
+    <div class="tarif">
+
+        <ul>
+
+           <div class="heading"><p>Elmalı Kurabiye Tarifi için Malzemeler</p></div> 
+           <ul>
+               <li>3 su bardağı un</li>
+               <li>250 gram oda ısısında tereyağı veya margarin</li>
+               <li>1 yemek kaşığı yoğurt</li>
+               <li>1 çay kaşığı kabartma tozu</li>
+               <li>1 limon kabuğu rendesi (isteğe bağlı)</li>
+               <li>1 kahve fincanı pudra şekeri</li>
+           </ul>
+             <div class="heading"><b>İç Malzemesi</b> </div><br>
+            <ul>                
+                <li>3 elma orta boy elma rendesi</li>
+                <li>1 tatlı kaşığı tarçın</li>
+                <li>1 küçük boy çay bardağı şeker</li>
+                <li>1 avuç dövülmüş ceviz (isteğe bağlı, yaklaşık yarım su bardağı)</li>
+            </ul>
+        </ul>
+    </div>
+    </div>
+
+    <div class="vr">  
+         
+    </div>
+    
+    <span class="Afiyet">Afiyet olsun
+        <a href="syf.html" target=""> 
+            <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/loading-tea.gif" alt="">
+        </a>
+    </span>
+
+    
+
+
+
+        
+    
+
+
+</body>
+</html>
