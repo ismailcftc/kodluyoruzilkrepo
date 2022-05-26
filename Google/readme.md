@@ -1,0 +1,1 @@
+#CSS DERSİ ÖDEVİ Patika.Dev tarafından düzenlenen CSS dersleri kapsamından yapılan 2. ödev.
